@@ -14,3 +14,9 @@ using System.Diagnostics;
 //_169_Majority_Element _169_Majority_Element = new _169_Majority_Element();
 //int[] nums = [3, 2, 3];
 //_169_Majority_Element.MajorityElement(nums);
+
+//_191_NumberOfBits numberOfBits = new _191_NumberOfBits();
+//numberOfBits.HammingWeight(11);
+
+_9_Palindrome_Number _9_Palindrome_Number = new _9_Palindrome_Number();
+_9_Palindrome_Number.IsPalindrome(121);
